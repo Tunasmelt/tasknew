@@ -1,1 +1,1 @@
-this is an exomple
+this is an example
